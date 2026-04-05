@@ -1,7 +1,7 @@
 <?php
 // index.php — Home Page
 require_once 'config.php';
-$pageTitle = 'Discover Nepal\'s Finest Hotels';
+$pageTitle = 'StayEase — Book Nepal’s Finest Hotels with Ease';
 
 // Fetch featured hotels
 $stmt = $pdo->query("SELECT * FROM hotels ORDER BY rating DESC LIMIT 6");
@@ -173,9 +173,9 @@ include 'includes/header.php';
         <div class="testimonials-grid">
             <?php
             $testimonials = [
-                ['"The Grand Himalayan was beyond our expectations. The mountain views from our suite were absolutely magical. StayEase made the whole booking process effortless."', 'Priya Sharma', 'Delhi, India', 'P'],
-                ['"Found the perfect boutique hotel in Bhaktapur through StayEase. The heritage courtyard experience was unlike anything else. Will definitely use again!"', 'James Wilson', 'London, UK', 'J'],
-                ['"Booked the jungle retreat in Chitwan for our anniversary. The safari tours were incredible, and the eco-lodge was beautifully designed. 10/10!"', 'Anita Gurung', 'Kathmandu, Nepal', 'A'],
+                ['"The Grand Himalayan was beyond our expectations. The mountain views from our suite were absolutely magical. StayEase made the whole booking process effortless."', 'Priya Shrestha', 'Kathmandu, Nepal', 'P'],
+                ['"Found the perfect boutique hotel in Bhaktapur through StayEase. The heritage courtyard experience was unlike anything else. Will definitely use again!"', 'Krushna Thapa', 'Pokhara, Nepal', 'K'],
+                ['"Booked the jungle retreat in Chitwan for our anniversary. The safari tours were incredible, and the eco-lodge was beautifully designed. 10/10!"', 'Anita Gurung', 'Lalitpur, Nepal', 'A'],
             ];
             foreach ($testimonials as [$quote, $name, $loc, $initial]):
             ?>
