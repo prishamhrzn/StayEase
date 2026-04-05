@@ -113,7 +113,7 @@ include 'includes/header.php';
         <!-- Demo credentials -->
         <div style="margin-top:1.5rem;padding:1rem;background:var(--clr-bg);border-radius:var(--radius-sm);font-size:.8rem;color:var(--clr-text-muted)">
             <strong style="color:var(--clr-text)">Demo Credentials:</strong><br>
-            Admin: <code>admin@stayease.com</code> / <code>Admin@123</code><br>
+            
             User: Register a new account or use any registered email with <code>password</code>
         </div>
     </div>

@@ -37,8 +37,13 @@
         <div class="footer-contact">
             <h4>Contact</h4>
             <p><i class="fas fa-map-marker-alt"></i> Thamel, Kathmandu, Nepal</p>
+<<<<<<< HEAD
             <p><i class="fas fa-envelope"></i> @stayease123.com</p>
             <p><i class="fas fa-phone"></i> +977 1-5970300</p>
+=======
+            <p><i class="fas fa-envelope"></i> stayease123@gmail.com</p>
+            <p><i class="fas fa-phone"></i> +977 01-5528758</p>
+>>>>>>> d9b28141eed0cecf24288bbce1174a73361a72e4
         </div>
     </div>
     <div class="footer-bottom">

@@ -173,8 +173,8 @@ include 'includes/header.php';
         <div class="testimonials-grid">
             <?php
             $testimonials = [
-                ['"The Grand Himalayan was beyond our expectations. The mountain views from our suite were absolutely magical. StayEase made the whole booking process effortless."', 'Priya Shrestha', 'Kathmandu, Nepal', 'P'],
-                ['"Found the perfect boutique hotel in Bhaktapur through StayEase. The heritage courtyard experience was unlike anything else. Will definitely use again!"', 'Krushna Thapa', 'Pokhara, Nepal', 'K'],
+                ['"The Grand Himalayan was beyond our expectations. The mountain views from our suite were absolutely magical. StayEase made the whole booking process effortless."', 'Priya Shakya', 'Kathmandu, Nepal', 'P'],
+                ['"Found the perfect boutique hotel in Bhaktapur through StayEase. The heritage courtyard experience was unlike anything else. Will definitely use again!"', 'Rasu Shrestha', 'Pokhara, Nepal', 'R'],
                 ['"Booked the jungle retreat in Chitwan for our anniversary. The safari tours were incredible, and the eco-lodge was beautifully designed. 10/10!"', 'Anita Gurung', 'Lalitpur, Nepal', 'A'],
             ];
             foreach ($testimonials as [$quote, $name, $loc, $initial]):
