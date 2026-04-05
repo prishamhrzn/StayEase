@@ -90,3 +90,11 @@ INSERT INTO hotels (name, location, price, rating, description, amenities, image
  'An eco-friendly jungle retreat bordering Chitwan National Park, offering wildlife safari packages and nature experiences.',
  'Free WiFi,Safari Tours,Swimming Pool,Restaurant,Nature Walks,Elephant Bathing',
  'tranquil_valley.jpg');
+ 
+ (' Kathmandu Marriott Hotel', 'Manakamana Marg, Naxal', 2500.00, 4.7,
+ 'Kathmandu Marriott Hotel is a premium 5-star hotel in the heart of Kathmandu, offering luxury comfort, elegant rooms, fine dining, and world-class hospitality for both business and leisure travelers.',
+ 'Pool – outdoor (kids),Airport shuttle ,Non-smoking rooms ,Spa, Free Wifi ,Room service ,Family rooms ,Free parking ,Bar, Exceptional Breakfast',
+ 'Kathmandu-Marriott-Hotel.jpg');
+
+ ('Aarya Hotel and Spa - Eternal Heritage',)
+
