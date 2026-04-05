@@ -6,15 +6,22 @@
 
 /* ── CSS Variables ──────────────────────────────────────── */
 :root {
+    --clr-bg:         #f4f4f4;
+    --clr-surface:    #f2e9e2;
+    --clr-forest:     #0A3D28;
+    
     --clr-bg:         #ffffff;
     --clr-surface:    #FFFFFF;
     --clr-forest:     #0a3d28;
+
     --clr-forest-lt:  #2D6A4F;
     --clr-gold:       #c9a84c;
     --clr-gold-lt:    #E8C97A;
-    --clr-text:       #1a1a1a;
+
+    --clr-text:       #1A1A1A;
     --clr-text-muted: #340d0d;
-    --clr-border:     #836c47;
+    --clr-border:     #836C47;
+
     --clr-danger:     #DC2626;
     --clr-success:    #16A34A;
     --clr-warning:    #D97706;

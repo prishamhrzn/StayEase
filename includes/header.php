@@ -1,7 +1,7 @@
 <?php
 // includes/header.php — Shared HTML <head> + navigation
 // $pageTitle should be set in each page before including this
-if (!isset($pageTitle)) $pageTitle = SITE_NAME;
+if (!isset($pageTitle)) $pageTitle = StayEase;
 ?>
 <!DOCTYPE html>
 <html lang="en">
