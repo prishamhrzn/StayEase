@@ -101,7 +101,6 @@ include 'includes/header.php';
             <div class="hotel-card-img">
                 <img src="<?= SITE_URL ?>/images/hotels/<?= htmlspecialchars($hotel['image']) ?>"
                      alt="<?= htmlspecialchars($hotel['name']) ?>"
-                     onerror="this.src='https://images.unsplash.com/photo-1566073771259-6a8506099945?w=600&q=70'">
                 <span class="hotel-card-badge">★ <?= number_format($hotel['rating'], 1) ?></span>
             </div>
             <div class="hotel-card-body">
